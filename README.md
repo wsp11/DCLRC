@@ -29,3 +29,10 @@ mv leftImg8bit cityscape_dataset
 unzip rightImg8bit_trainvaltest.zip
 mv rightImg8bit cityscape_dataset
 ```
+
+### Preprocess
+Use Pre-JPEG to preprocess the image in dataset.Run the following files:
+```yaml
+compress.py
+decompress.py
+```
