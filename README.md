@@ -1,4 +1,5 @@
 The PyTorch implementation of our paper:
+
 **JPEG Image Lossy Recompression with Mutual Information Enhancement**
 
 ### :bookmark:Brief Introduction
